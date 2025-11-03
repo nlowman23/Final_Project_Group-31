@@ -6,6 +6,7 @@ Submetrics:
 - Park Density
 
 Combined Metric: Quality of Public Services
+
 Details:
 
 To Do:
