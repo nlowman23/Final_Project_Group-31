@@ -13,8 +13,3 @@ To Do:
 - Details on Combined Metric
 - Combined Metric .ipynb
 - Slides
-
-Other Things
-- Clean up github
-  - Rename files to make them uniform (like our project data ones)
-  - Change ReadMe
