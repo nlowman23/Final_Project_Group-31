@@ -35,3 +35,16 @@ Conclusion: Reflect on how the data-driven determination of “best neighborhood
 Each group member should be able to talk about their metric and what data they're using to measure it. You should describe what conclusions you came to on your own. Then, your group should describe how you combined your metrics, and state which neighborhood was the best according to your combined metric.
 
 After you present, you will open up the floor for questions from your UTA and your fellow classmates. Part of your grade depends on giving satisfactory answers to your student questions. Additionally, you need to ask at least one other group a question at some point during these two lectures.
+
+
+Each group’s Github repository should contain:
+
+A Combined notebook / Presentation Notebook with a conclusion paragraph from each group member.
+A Jupyter Notebook from each group member with their dataset, analysis, and answer. This will allow us to verify that each team member pulled his/her weight.
+A Readme with the following information:
+    Team name
+    Team member's names and email addresses
+    Additionally, your README should tell us which individual analysis notebooks belong to which team members
+    Canvas group number
+    Description and Links to the datasets used
+    A one-sentence overview of your repository, meant for someone who is not familiar with the project
