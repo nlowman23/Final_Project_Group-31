@@ -1,5 +1,5 @@
 ## Team Name: The Best Neighborhood Judgers EVER!
-#### Team member's names and email addresses: Jack Carfrey (jac961@pitt.edu), Lenny Scinto (), Nate Lowman ()
+### A project by Jack Carfrey (jac961@pitt.edu), Lenny Scinto (), and Nate Lowman ()
 #### Canvas Group 31
 
 ### Datasets:
