@@ -5,8 +5,8 @@
 ### Datasets:
 #### Facilties Dataset: 
 Analysis by Jack Carfrey
-Link:
-Description:
+Link: [https://data.wprdc.org/dataset/city-of-pittsburgh-facilities](url)
+Description: City Facility data pulled from the Operations Management System for the Department of Public Works
 
 #### Education Dataset:
 Analysis by Lenny Scinto
