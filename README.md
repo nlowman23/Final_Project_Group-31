@@ -20,10 +20,3 @@ Description:
 Analysis by Nate Lowman
 Link: [https://github.com/nlowman23/Final_Project_Group-31/blob/main/ParkData2.csv](url) , [https://github.com/nlowman23/Final_Project_Group-31/blob/main/parkdata.csv](url)
 Description: City Park data pulled from the Operations Management System for the Departemnt of Public Works
-
-
-
-Still Need: A one-sentence overview of your repository, meant for someone who is not familiar with the project
-
-OLD readme below
-We are arguing that the best neighborhood in Pittsburgh is one that provides the best services to its residence. To determine the best neighborhood, we are judging every neighborhood based on 3 categories: the amount of public facilities each neighborhood has, the amount of parks each neighborhood has, and the quality of education in each neighborhood.  
