@@ -1,5 +1,5 @@
 ## Team Name: The Best Neighborhood Judgers EVER!
-### A project by Jack Carfrey (jac961@pitt.edu), Lenny Scinto (), and Nate Lowman (ncl48@pitt.edu)
+### A project by Jack Carfrey (jac961@pitt.edu), Lenny Scinto (lss89@pitt.edu), and Nate Lowman (ncl48@pitt.edu)
 #### Canvas Group 31
 
 ### Overview
@@ -13,8 +13,8 @@ Description: City Facility data pulled from the Operations Management System for
 
 #### Education Dataset:
 Analysis by Lenny Scinto
-Link:
-Description:
+Link: [https://github.com/nlowman23/Final_Project_Group-31/blob/main/Pittsburgh%20Education%202024.csv](url)
+Description: Education data pulled from the 2024 Pittsburgh A+ Schools Report
 
 #### Parks Dataset:
 Analysis by Nate Lowman
