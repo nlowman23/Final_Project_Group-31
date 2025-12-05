@@ -2,6 +2,9 @@
 ### A project by Jack Carfrey (jac961@pitt.edu), Lenny Scinto (), and Nate Lowman (ncl48@pitt.edu)
 #### Canvas Group 31
 
+### Overview
+This repository is a class project with the goal of answering the question "What is the best neighborhood in Pittsburgh?" using data derived from the WPRDC. Our results can be found in the 'Main Project Notebook' file, and our individual analyses can be found in the other notebooks. 
+
 ### Datasets:
 #### Facilties Dataset: 
 Analysis by Jack Carfrey
@@ -17,6 +20,8 @@ Description:
 Analysis by Nate Lowman
 Link: [https://github.com/nlowman23/Final_Project_Group-31/blob/main/ParkData2.csv](url) , [https://github.com/nlowman23/Final_Project_Group-31/blob/main/parkdata.csv](url)
 Description: City Park data pulled from the Operations Management System for the Departemnt of Public Works
+
+
 
 Still Need: A one-sentence overview of your repository, meant for someone who is not familiar with the project
 
