@@ -15,8 +15,8 @@ Description:
 
 #### Parks Dataset:
 Analysis by Nate Lowman
-Link:
-Description:
+Link: [https://github.com/nlowman23/Final_Project_Group-31/blob/main/ParkData2.csv](url) , [https://github.com/nlowman23/Final_Project_Group-31/blob/main/parkdata.csv](url)
+Description: City Park data pulled from the Operations Management System for the Departemnt of Public Works
 
 Still Need: A one-sentence overview of your repository, meant for someone who is not familiar with the project
 
